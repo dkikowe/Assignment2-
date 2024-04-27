@@ -9,8 +9,6 @@ public class MyApplication {
         arr.add(6);
         System.out.println(arr.getFirst());
         System.out.println(arr.getLast());
-        arr.printArray();
-        arr.addLast(1);
-        arr.printArray();
+
     }
 }
